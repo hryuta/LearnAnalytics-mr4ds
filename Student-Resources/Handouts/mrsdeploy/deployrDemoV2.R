@@ -52,7 +52,7 @@ apiAdd <- publishService(
 
 # Try creating it a second time !!
 
-api <- getService("addition","v1.0.0")
+api <- getService("addition","v1.0.1")
 print(api)
 
 # Get the capabilities for the web-service
